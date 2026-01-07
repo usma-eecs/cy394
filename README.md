@@ -1,2 +1,3 @@
-# cy394
-CY394 Cloud Computing
+# CY394 CLOUD COMPUTING
+
+This repository is where homework assignments for the Cloud Computing course can be found.
